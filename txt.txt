@@ -1,0 +1,6 @@
+C02.1-manha {1: {'pedestre': 1, 'bicicleta': 31, 'carro': 1, 'moto': 0, 'onibus': 0, 'caminhao': 0}}
+C02.1-tarde {1: {'pedestre': 0, 'bicicleta': 11, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}}
+C03.2-noite {1: {'pedestre': 14, 'bicicleta': 50, 'carro': 0, 'moto': 4, 'onibus': 0, 'caminhao': 0}}
+C04.5 - manha {1: {'pedestre': 1, 'bicicleta': 18, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}, 2: {'pedestre': 3, 'bicicleta': 51, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}}
+C04.5 - tarde {1: {'pedestre': 0, 'bicicleta': 14, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}, 2: {'pedestre': 0, 'bicicleta': 9, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}}
+C04.5 - noite {1: {'pedestre': 1, 'bicicleta': 39, 'carro': 0, 'moto': 0, 'onibus': 0, 'caminhao': 0}, 2: {'pedestre': 0, 'bicicleta': 4, 'carro': 0, 'moto': 1, 'onibus': 0, 'caminhao': 0}}
